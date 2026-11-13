@@ -7,7 +7,7 @@ int banr()
     
     // Листинг В (компилируется без ошибок!)
 #include <iostream>
-    int main();
+    int zhora();
         std::cout << "Price: " << 375 << " rub." << std::endl;
         // по заданию должно быть: Стоимость: 375 руб.
         return 0;
