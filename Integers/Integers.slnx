@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Integers/Integers.vcxproj" Id="b9194149-ee34-4076-ac89-16d69e486cec" />
+</Solution>
