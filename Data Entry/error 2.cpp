@@ -1,6 +1,6 @@
 // Листинг Б
 #include <iostream>
-int main()
+int banr()
 {
     std::cout << "A parenthesis got lost" << std::endl;
     return 0;
