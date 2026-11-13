@@ -1,0 +1,6 @@
+﻿  average.cpp
+  Time.cpp
+  Создание кода...
+C:\Users\РПО\source\repos\Data entry and calculations\Data entry and calculations\average.cpp(7,1): error C4700: использована неинициализированная локальная переменная "g1"
+C:\Users\РПО\source\repos\Data entry and calculations\Data entry and calculations\average.cpp(7,1): error C4700: использована неинициализированная локальная переменная "g2"
+C:\Users\РПО\source\repos\Data entry and calculations\Data entry and calculations\average.cpp(7,1): error C4700: использована неинициализированная локальная переменная "g3"
