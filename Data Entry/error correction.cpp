@@ -1,4 +1,4 @@
-// Листинг А
+
 #include <iostream>
 int main()
 {
