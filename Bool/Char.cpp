@@ -2,7 +2,7 @@
 int main()
 {
 	std::cout << 'A' << '\n';
-	std::cout << 'A' + 1 << '\n';
+	std::cout << 'A' + 0 << '\n';
 
 	std::cout << 'a' << '\n';
 	std::cout << '0' << '\n';
